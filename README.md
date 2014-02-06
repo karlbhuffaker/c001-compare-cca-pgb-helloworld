@@ -22,29 +22,46 @@ cca-index.html is very simple and makes sense to any webpage designer (Chrome Co
 Icons:
 
 pgb - easy load one image on the website, unless you have a config.xml file then you manually load the images
+
 pg -res icon or screen folders with subfolders. Well organized but a huge pain getting all those images sorted
+
 cca - in www/assets folder one image and then a few more in the www/assets/icons folder 
 
 
 Plugins:
 
 pgb- just mention the plugin in the config.xml file and that is it start using it right away
+
 pg - use command line to install the plugin from a file or git repo and the command line does all the work for you. Very cool
+
 cca - Can use the command line for cordova style plugins but also has a few API's pre installed. Not yet sure how to use these. But will try to find out.
 
+
+
+
+Final APK.
+pg - the final .apk is located inside plaform/android/bin
+
+pgb - download the .apk directly from the website by logining in to phonegap build from your Android phone or email it to your phone.
+
+cca - .apk located in platform/android/ant-build
 
 
 
 First Look Summary:
 
 pgb- really simple, don't like that you can't zoom your app, but still great for students
+
 pg - Lots of power, not easy to use on windows but you can make batch/cmd files to make this easier.
+
 cca - looks great, looks easy. Sure wish Google would make an API that works with ADMOB. Real potential here to make this have the power of phonegap with some of the simplicity of Phonegap Build. 
 
-My opinion winner Jan 6th, 2014. Phonegap Build for students.
 
 
-Note: I will make a few more Chrome Cordova App repos if you search cca-helloworld
+My opinion the winner for easiest for students to use Jan 6th, 2014. Phonegap Build.
+
+
+Note: I will make a few more Chrome Cordova App repos if you search github for cca-helloworld
 
 
 
